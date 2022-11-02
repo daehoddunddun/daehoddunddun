@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Daeho%20Kim&fontSize=60)
 
 ### 함께, 최고가 목표인 프론트엔드 개발자 김대호입니다🥹
-- 서버&네트워크 엔지니어에서 멋진 프론트엔드 개발자로 변신중
+- 서버&네트워크 엔지니어에서 멋진 프론트엔드 개발자로~!
 - Wecode 37기 수료생 
 - email : eogh773@gamil.com 
 -----------------------
