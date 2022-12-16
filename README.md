@@ -6,7 +6,7 @@
   
  🔥 서버&네트워크 엔지니어에서 멋진 프론트엔드 개발자로~!
   
- 👨‍🎓 TBELL-developer / Wecode 37기 수료생
+ 👨‍🎓 Wecode 37기 수료생
   
  ✉ email : eogh773@gamil.com 
   
