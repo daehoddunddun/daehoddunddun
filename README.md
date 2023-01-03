@@ -24,7 +24,7 @@
 
 🛠 Tools 
 
-<img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=Jira&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=red&magin-left=5px"/>  <img src="https://img.shields.io/badge/GitLab-gray?style=flat&logo=GitLab&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/FileZilla-gray?style=flat&logo=FileZilla&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/Slack-gray?style=flat&logo=Slack&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/Notion-gray?style=flat&logo=Notion&logoColor=red&magin-left=5px"/> 
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=red&magin-left=5px"/>  <img src="https://img.shields.io/badge/GitLab-gray?style=flat&logo=GitLab&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/FileZilla-gray?style=flat&logo=FileZilla&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/Slack-gray?style=flat&logo=Slack&logoColor=red&magin-left=5px"/> <img src="https://img.shields.io/badge/Notion-gray?style=flat&logo=Notion&logoColor=red&magin-left=5px"/> 
 
 ------------
   
